@@ -1,1 +1,1 @@
-## Cloud-movie-review-sentiment-LSTM-on-Amazon-SageMaker
+Cloud-movie-review-sentiment-LSTM-on-Amazon-SageMaker
