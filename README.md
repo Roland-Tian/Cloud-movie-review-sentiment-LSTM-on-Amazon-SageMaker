@@ -1,2 +1,3 @@
 # Cloud-movie-review-sentiment-LSTM-on-Amazon-SageMaker
-Movie review sentiment LSTM RNN on Amazon SageMaker cloud
+
+One can download and open the 'review sentiment website deployment' html file to test the sentiment classifier.
