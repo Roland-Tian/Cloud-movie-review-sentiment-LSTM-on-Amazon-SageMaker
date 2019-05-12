@@ -1,1 +1,1 @@
-Cloud-movie-review-sentiment-LSTM-on-Amazon-SageMaker
+Cloud LSTM RNN movie review sentiment classifier on Amazon SageMaker
